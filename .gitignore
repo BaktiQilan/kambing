@@ -8,6 +8,7 @@ kambing.py
 
 # C extensions
 *.so
+*.c
 
 # Distribution / packaging
 .Python
