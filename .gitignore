@@ -1,7 +1,10 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+__pycache__/ 
+*$py.class 
+dawet.py
+client_secret.json
+.idea/
+kambing.py
 
 # C extensions
 *.so
